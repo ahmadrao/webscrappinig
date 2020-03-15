@@ -14,5 +14,10 @@
     "webscrapping"
   ],
   "author": "muhammad_ahmad",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
 }
